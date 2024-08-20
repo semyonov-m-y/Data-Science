@@ -1,12 +1,3 @@
-'''
-1) Чтобы в Python работать с MySQL, нужно выполнить pip install pymysql
-2)Если в MySQL возникает ошибка Unable to excute command chcp, то:
-To resolve this problem on 64 bit system we have to follow two steps.
-add environment variable path to C:\Windows\System32
-we need chcp.com cmd file in C:\Windows\SysWOW64 copy it from C:\Windows\System32 path and paste in C:\Windows\SysWOW64
-now close mysql workbench and reopen it.
-'''
-
 import pandas as pd
 import pymysql
 import pymysql.cursors
