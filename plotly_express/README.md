@@ -1,1 +1,0 @@
-Все типы графиков для plotly express для Python представлены тут - https://plotly.com/python/plotly-express/
