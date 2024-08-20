@@ -3,7 +3,6 @@ import pymysql
 import pymysql.cursors
 import random
 
-#pmsql = pymysql.install_as_MySQLdb()
 #сначала создаем подключение: укажите свои логин и пароль и имя схемы (переменная database)
 connection = 0
 
