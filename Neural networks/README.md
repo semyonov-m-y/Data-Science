@@ -4,10 +4,10 @@ A neural network is a group of interconnected units called neurons that send sig
 These are three implementations of different neural networks.
 
 > [!NOTE]  
-> Areas of activity of companies: $${\color{red}Business}$$
+> Areas of activity of companies: $${\color{gold}Business}$$
 
 > [!TIP]
-> Area of ​​activity: $${\color{red}Machine-Learning}$$
+> Area of ​​activity: $${\color{gold}Machine-Learning}$$
 
 > [!IMPORTANT]  
 > Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}Keras}$$ $${\color{brown}Torch}$$ 
