@@ -10,4 +10,4 @@ These are three implementations of different neural networks.
 > Area of ​​activity: $${\color{red}Machine-Learning}$$
 
 > [!IMPORTANT]  
-> Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}BERT}$$ $${\color{brown}NLTK} $$ $${\color{white}TF-IDF}$$
+> Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}Keras}$$ $${\color{brown}Torch}$$ 
