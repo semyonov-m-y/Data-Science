@@ -251,7 +251,7 @@
 > Сферы деятельности компаний: $${\color{gold}Интернет-сервисы}$$ $${\color{red}Стриминговый Сервис}$$
 
 > [!TIP]
-> Направление деятельности: $${\color{gold}Data Analyst}$$
+> Направление деятельности: $${\color{gold}Data-Analyst}$$
 
 > [!IMPORTANT]  
 > Навыки и инструменты: $${\color{gold}PyPlot}$$ $${\color{red}Pandas}$$ $${\color{green}Matplotlib}$$ $${\color{brown}NumPy}$$ $${\color{white}кластеризация}$$ $${\color{grey}классификация}$$
