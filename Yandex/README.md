@@ -254,4 +254,4 @@
 > Направление деятельности: $${\color{gold}Data Analyst}$$
 
 > [!IMPORTANT]  
-> Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$
+> Навыки и инструменты: $${\color{gold}PyPlot}$$ $${\color{red}Pandas}$$ $${\color{green}Matplotlib}$$ $${\color{brown}NumPy}$$ $${\color{white}кластеризация}$$ $${\color{grey}классификация}$$
