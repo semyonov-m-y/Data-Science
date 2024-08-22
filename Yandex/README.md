@@ -11,8 +11,10 @@
 
 > [!Направление деятельности]  
 > Data Analyst
+
 > [!NOTE]  Направление деятельности
 > Data Analyst
+
 > [!Навыки инструменты]
 > Optional information to help a user be more successful.
 
