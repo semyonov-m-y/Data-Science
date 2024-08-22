@@ -87,3 +87,41 @@
 ### 20. [*Анализ оттока клиентов сети фитнес-центров «Культурист-датасаентист»*](https://github.com/semyonov-m-y/data_science/tree/main/Yandex/Project%2020%20Fitness%20center%20churn)
 **Описание проекта:**
 Сеть фитнес-центров «Культурист-датасаентист» разрабатывает стратегию взаимодействия с клиентами на основе аналитических данных. Распространённая проблема фитнес-клубов и других сервисов — отток клиентов. Требуется предсказание оттока.
+
+https://www.notion.so/1-1635211f98a04b53bc120bbebbd6f080?pvs=4
+
+https://www.notion.so/2-bbe4cc694f354c75ac4e94eb3eb8c90a?pvs=4
+
+https://www.notion.so/3-2cf5741d854f4e2ebb3613e5c2f50bc3?pvs=4
+
+https://www.notion.so/4-d1e1f1856f8d40e6b1ded695bd93a41e?pvs=4
+
+https://www.notion.so/5-e38cb4cddc594573851cdb225576a017?pvs=4
+
+https://www.notion.so/6-a902a8285d334c07a5876a0db0298421?pvs=4
+
+https://www.notion.so/7-545f59f15fcc430894fd904d244f05fd?pvs=4
+
+https://www.notion.so/8-6dcd388c19dc49709aebe2c8d14dafbf?pvs=4
+
+https://www.notion.so/9-ab102fd30e6b46048392a05e7f6699ec?pvs=4
+
+https://www.notion.so/10-3b0fd16319d949469ffc385e80f5163e?pvs=4
+
+https://www.notion.so/11-36f9a9a414784a54b0e93f39c7af498a?pvs=4
+
+https://www.notion.so/12-a5c043c3f5874527aa1df4ccd98b91e6?pvs=4
+
+https://www.notion.so/13-5c36a604235c408eaad9ab622d5c955e?pvs=4
+
+https://www.notion.so/14-532feef5aae8473c9be6e5977a5437dc?pvs=4
+
+https://www.notion.so/15-d962078e8b094711aa1304dea5b5481b?pvs=4
+
+https://www.notion.so/16-992de9d839454e949940bf6bf1889c0f?pvs=4
+
+https://www.notion.so/17-f2cba7c451e243acab3c6c2c0f0d721e?pvs=4
+
+https://www.notion.so/18-4745fb2bffab48559ffd26b0c4f3fb6f?pvs=4
+
+https://www.notion.so/19-ee72af036c7e4112aa49f0f2f98adfc1?pvs=4
