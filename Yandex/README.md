@@ -18,8 +18,8 @@
 > [!Навыки инструменты]
 > Optional information to help a user be more successful.
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+> [!IMPORTANT]  Направление деятельности
+> Data Analyst
 
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
