@@ -8,4 +8,4 @@ This is a simple implementation of a recommender system in a database.
 > Area of ​​activity: $${\color{red}Machine-Learning}$$ $${\color{green}SQL}$$
 
 > [!IMPORTANT]  
-> Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}SQL}$$ $${\color{brown}Torch}$$ 
+> Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}SQL}$$ $${\color{brown}PyMySql}$$ 
