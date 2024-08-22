@@ -26,7 +26,18 @@ These are three implementations of different neural networks.
 > [!IMPORTANT]  
 > Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}Keras}$$ $${\color{brown}Torch}$$
 
-3) SQL
+3) # SQL
+This is a simple implementation of a recommender system in a database.
+
+> [!NOTE]  
+> Areas of activity of companies: $${\color{gold}Business}$$
+
+> [!TIP]
+> Area of ​​activity: $${\color{gold}Machine-Learning}$$ $${\color{red}SQL}$$
+
+> [!IMPORTANT]  
+> Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}SQL}$$ $${\color{brown}PyMySql}$$
+
 4) Yandex
    
 The biggest and different projects are in Yandex folder.
