@@ -185,7 +185,7 @@
 > Сферы деятельности компаний: $${\color{gold}Бизнес}$$
 
 > [!TIP]
-> Направление деятельности: $${\color{gold}Machine-Learning}$$
+> Направление деятельности: $${\color{gold}Machine-Learning}$$ $${\color{red}Computer-Vision}$$
 
 > [!IMPORTANT]  
 > Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Keras}$$
@@ -196,36 +196,36 @@
 Заказчик хочет использовать разработанную модель для имитации технологического процесса. Ниже расскажем о деталях этого процесса. Их важно знать, прежде чем генерировать новые признаки.
 
 > [!NOTE]  
-> Сферы деятельности компаний: $${\color{gold}Интернет-сервисы}$$ $${\color{red}Стриминговый Сервис}$$
+> Сферы деятельности компаний: $${\color{gold}Промышленность}$$
 
 > [!TIP]
-> Направление деятельности: $${\color{gold}Data Analyst}$$
+> Направление деятельности: $${\color{gold}Machine-Learning}$$
 
 > [!IMPORTANT]  
-> Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$
+> Навыки и инструменты: $${\color{gold}LinearRegression cross val}$$ $${\color{red}Ridge}$$ $${\color{green}RandomForestRegressor}$$ $${\color{brown}Gradient Boosting}$$ $${\color{white}CatBoost}$$ $${\color{grey}DecisionTreeRegressor}$$ $${\color{lightgreen}Lasso}$$
 
 ### 17. [*AB-тест*](https://github.com/semyonov-m-y/data_science/tree/main/Yandex/Project%2017%20A-B%20test)
 **Описание проекта:**
 Цель - провести анализ результатов A/B теста. В ходе проекта было оценено соответствие проведения теста тех.заданию и проанализированы результаты теста.
 
 > [!NOTE]  
-> Сферы деятельности компаний: $${\color{gold}Интернет-сервисы}$$ $${\color{red}Стриминговый Сервис}$$
+> Сферы деятельности компаний: $${\color{gold}Бизнес}$$
 
 > [!TIP]
-> Направление деятельности: $${\color{gold}Data Analyst}$$
+> Направление деятельности: $${\color{gold}Data-Analyst}$$
 
 > [!IMPORTANT]  
-> Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$
+> Навыки и инструменты: $${\color{gold}Pandas}$$ $${\color{red}Numpy}$$ $${\color{green}Matplotlib}$$ $${\color{brown}Seaborn}$$ $${\color{white}Scipy}$$ $${\color{grey}statsmodels}$$ 
 
 ### 18. [*Проект анализ бизнес-показателей (когортный анализ)*](https://github.com/semyonov-m-y/data_science/tree/main/Yandex/Project%2018%20Cohort%20Business%20Analitycs)
 **Описание проекта:**
 Цель исследования: разобраться в причинах убытков приложения Procrastinate Pro+ и помочь компании выйти в плюс.  
 
 > [!NOTE]  
-> Сферы деятельности компаний: $${\color{gold}Интернет-сервисы}$$ $${\color{red}Стриминговый Сервис}$$
+> Сферы деятельности компаний: $${\color{gold}Бизнес}$$
 
 > [!TIP]
-> Направление деятельности: $${\color{gold}Data Analyst}$$
+> Направление деятельности: $${\color{gold}Data-Analyst}$$
 
 > [!IMPORTANT]  
 > Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$
@@ -235,13 +235,13 @@
 Анализ взаимодействия пользователей с карточками Яндекс.Дзен и построение дашборда на основании полученного технического задания. Создание презентации.
 
 > [!NOTE]  
-> Сферы деятельности компаний: $${\color{gold}Интернет-сервисы}$$ $${\color{red}Стриминговый Сервис}$$
+> Сферы деятельности компаний: $${\color{gold}Интернет-сервисы}$$
 
 > [!TIP]
-> Направление деятельности: $${\color{gold}Data Analyst}$$
+> Направление деятельности: $${\color{gold}Data-Analyst}$$
 
 > [!IMPORTANT]  
-> Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$
+> Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}SqlAlchemy}$$
 
 ### 20. [*Анализ оттока клиентов сети фитнес-центров «Культурист-датасаентист»*](https://github.com/semyonov-m-y/data_science/tree/main/Yandex/Project%2020%20Fitness%20center%20churn)
 **Описание проекта:**
