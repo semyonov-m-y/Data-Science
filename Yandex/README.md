@@ -84,7 +84,7 @@
 > Направление деятельности: $${\color{gold}Data-Analyst}$$ $${\color{red}Маркетинг-аналитик}$$ $${\color{orange}Продуктовый-Аналитик}$$
 
 > [!IMPORTANT]  
-> Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}Matplotlib}$$ $${\color{brown}NumPy}$$ $${\color{white}описательная-статистика}$$ $${\color{blue}проверка-статистических-гипотез}$$
+> Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}Matplotlib}$$ $${\color{brown}NumPy}$$ $${\color{white}описательная-статистика}$$ $${\color{grey}проверка-статистических-гипотез}$$
 
 ### 7. [*Предсказание оттока клиентов*](https://github.com/semyonov-m-y/data_science/tree/main/Yandex/Project%207%20Customer%20churn)
 **Описание проекта:**
