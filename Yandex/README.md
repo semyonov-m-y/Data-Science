@@ -162,7 +162,7 @@
 > Направление деятельности: $${\color{gold}Machine-Learning}$$
 
 > [!IMPORTANT]  
-> Навыки и инструменты: $${\color{gold}Random-Forest}$$ $${\color{red}Dummy-Regression}$$ $${\color{green}Ridge}$$ $${\color{brown}CatBoost}$$ $${\color{white}LightGBM}$$ $${\color{grey}Linear-Regression}$$ $${\color{light green}statsmodels}$$
+> Навыки и инструменты: $${\color{gold}Random-Forest}$$ $${\color{red}Dummy-Regression}$$ $${\color{green}Ridge}$$ $${\color{brown}CatBoost}$$ $${\color{white}LightGBM}$$ $${\color{grey}Linear-Regression}$$ $${\color{lightgreen}statsmodels}$$
 
 ### 13. [*Классификация комментариев - позитивные и негативные*](https://github.com/semyonov-m-y/data_science/tree/main/Yandex/Project%2013%20Wikishop%2C%20comments%20processing%2C%20BERT)
 **Описание проекта:**
