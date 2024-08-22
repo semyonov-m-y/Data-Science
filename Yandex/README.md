@@ -26,7 +26,7 @@
 > Сферы деятельности компаний: $${\color{gold}Банковская Сфера}$$ $${\color{red}Кредитование}$$
 
 > [!TIP]
-> Направление деятельности: $${\color{gold}Data Analyst}$$ $${\color{red}Финансовый..Аналитик}$$
+> Направление деятельности: $${\color{gold}Data Analyst}$$ $${\color{red}Финансовый.Аналитик}$$
 
 > [!IMPORTANT]  
 > Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{orange}Предобработка-Данных}$$
