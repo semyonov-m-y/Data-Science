@@ -38,7 +38,7 @@ This is a simple implementation of a recommender system in a database.
 > [!IMPORTANT]  
 > Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}SQL}$$ $${\color{brown}PyMySql}$$
 
-4) Yandex
+4) # Yandex
    
 The biggest and different projects are in Yandex folder.
 
