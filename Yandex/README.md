@@ -11,7 +11,7 @@
 > Сферы деятельности компаний: $${\color{gold}Интернет-Сервисы}$$ $${\color{red}Стриминговый-Сервис}$$
 
 > [!TIP]
-> Направление деятельности: $${\color{gold}Data Analyst}$$
+> Направление деятельности: $${\color{gold}Data-Analyst}$$
 
 > [!IMPORTANT]  
 > Навыки и инструменты: $${\color{gold}Python}$$ $${\color{red}Pandas}$$
