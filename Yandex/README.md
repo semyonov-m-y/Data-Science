@@ -10,19 +10,14 @@
 Сферы деятельности компаний: $${\color{red}Интернет-сервисы}$$ $${\color{green}Стриминговыйсервис}$$
 
 > [!NOTE]  
-> Направление деятельности: Data Analyst
+> Сферы деятельности компаний: $${\color{red}Интернет-сервисы}$$ $${\color{green}Стриминговыйсервис}$$
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> Направление деятельности: Data Analyst
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
 
 ### 2. [*Исследование надежности заемщиков*](https://github.com/semyonov-m-y/data_science/tree/main/Yandex/Project%202%20Borrower%20reliability%20research)
 **Описание проекта:**
