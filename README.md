@@ -41,3 +41,12 @@ This is a simple implementation of a recommender system in a database.
 4) Yandex
    
 The biggest and different projects are in Yandex folder.
+
+> [!NOTE]  
+> Areas of activity of companies: $${\color{gold}Business}$$
+
+> [!TIP]
+> Area of ​​activity: $${\color{gold}Data-Science}$$ $${\color{red}Data-Analyst}$$ 
+
+> [!IMPORTANT]  
+> Skills and Tools: $${\color{gold}Python}$$ $${\color{red}Pandas}$$ $${\color{green}SQL}$$ $${\color{brown}PyMySql}$$
