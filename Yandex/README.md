@@ -9,17 +9,14 @@
 
 Сферы деятельности компаний: $${\color{red}Интернет-сервисы}$$ $${\color{green}Стриминговыйсервис}$$
 
-> [!Направление деятельности]  
-> Data Analyst
+> [!NOTE]  
+> Направление деятельности: Data Analyst
 
-> [!NOTE]  Направление деятельности
-> Data Analyst
-
-> [!Навыки инструменты]
+> [!TIP]
 > Optional information to help a user be more successful.
 
-> [!IMPORTANT]  Направление деятельности
-> Data Analyst
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
 
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
